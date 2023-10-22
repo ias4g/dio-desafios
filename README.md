@@ -12,12 +12,12 @@ Este repositório contém uma coleção de desafios realizados durante o bootcam
 - Dentro de cada pasta, você encontrará o código-fonte e possíveis soluções.
 - Fique à vontade para contribuir, fornecer feedback ou compartilhar suas próprias soluções!
 
-| ⬇ DESAFIOS ⬇                              | ⬇ ACESSOS ⬇                                           |
-|-------------------------------------------|-------------------------------------------------------|
-| Desafio Java Controle de Fluxo            | [Clique aqui](desafio-java-controle-fluxo/)           |
-| Desafio Java Condicionamente Rico         | [Clique aqui](desafios-java-condicionalmente-rico/)   |
-| Desafio Java Equilibrando o Saldo         | [Clique aqui](desafios-java-equilibrando-o-saldo/)    |
-| Desafio Java Organizando Seus Ativos      | [Clique aqui](desafios-java-organizando-seus-ativos/) |
+| ⬇ DESAFIOS ⬇                              | ⬇ ACESSOS ⬇                                                                          |
+|-------------------------------------------|--------------------------------------------------------------------------------------|
+| Desafio Java Controle de Fluxo            | [Clique aqui](desafio-java-controle-fluxo/src/Contador.java)                         |
+| Desafio Java Condicionamente Rico         | [Clique aqui](desafios-java-condicionalmente-rico/src/CondicionalmenteRico.java)     |
+| Desafio Java Equilibrando o Saldo         | [Clique aqui](desafios-java-equilibrando-o-saldo/src/EquilibrandoSaldo.java)         |
+| Desafio Java Organizando Seus Ativos      | [Clique aqui](desafios-java-organizando-seus-ativos/src/BancoOrganizadorAtivos.java) |
 
 ## Sobre a DIO
 
