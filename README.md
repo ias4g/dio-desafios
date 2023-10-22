@@ -1,0 +1,2 @@
+# dio-desafios
+ Este repositório contém uma coleção de desafios realizados durante o bootcamp da Digital Innovation One. Os desafios abrangem uma variedade de tópicos, incluindo programação, desenvolvimento web, segurança da informação e muito mais. Cada pasta neste repositório corresponde a um desafio específico e inclui o código-fonte ou a solução para o desafio, bem como qualquer documentação relevante.
