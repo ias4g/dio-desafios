@@ -14,18 +14,15 @@ Este repositório contém uma coleção de desafios realizados durante o bootcam
 
 ## Sobre a DIO
 
-A Digital Innovation One é uma plataforma de educação online que oferece bootcamps e cursos de alta qualidade na área de tecnologia da informação. Junte-se a nossa comunidade e continue aprimorando suas habilidades!
-
-## Contribuição
-
-Se você deseja contribuir com um novo desafio ou aprimorar uma solução existente, sinta-se à vontade para fazer um fork deste repositório e enviar um pull request.
-
-## Contato
-
-Se você tiver dúvidas ou sugestões, sinta-se à vontade para entrar em contato conosco.
-
-[Inserir seu email de contato]
+A [Digital Innovation One](https://www.dio.me/) é uma plataforma de educação online que oferece bootcamps e cursos de alta qualidade na área de tecnologia da informação. Junte-se a nossa comunidade e continue aprimorando suas habilidades!
 
 ## Licença
 
-Este projeto é distribuído sob a licença [Inserir a licença desejada].
+Este projeto é distribuído sob a licença [MIT](LICENSE).
+
+<br>
+
+<p align="center">
+    Feito com 💖 por
+    <a href="https://github.com/ias4g">Izael Silva</a>
+</p>
