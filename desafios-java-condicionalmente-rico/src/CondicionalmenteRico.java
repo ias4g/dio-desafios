@@ -50,8 +50,7 @@
 import java.util.Scanner;
 
 public class CondicionalmenteRico {
-    public static void main(String[] args) throws Exception {
-
+    public static void main(String[] args) {
         // Entrada de dados
         Scanner scanner = new Scanner(System.in);
 
