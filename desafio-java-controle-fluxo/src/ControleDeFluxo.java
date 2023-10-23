@@ -16,7 +16,7 @@ public class ControleDeFluxo {
         try {
             contar(parametroUm, parametroDois);
         } catch (ParametrosInvalidosException e) {
-            System.out.println("Error: O segundo parâmetro deve ser maior que o primeiro");
+            System.out.println("Error: " + e.getMessage());
         }
 
     }
@@ -24,7 +24,7 @@ public class ControleDeFluxo {
     private static void contar(int parametroUm, int parametroDois) throws ParametrosInvalidosException {
 
         if (parametroUm > parametroDois) {
-            throw new ParametrosInvalidosException(null);
+            throw new ParametrosInvalidosException("O segundo parâmetro deve ser maior que o primeiro");
         }
 
         int contagem = parametroDois - parametroUm;
