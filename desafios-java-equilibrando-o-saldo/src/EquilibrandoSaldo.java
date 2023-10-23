@@ -73,13 +73,11 @@ public class EquilibrandoSaldo {
         }
     }
 
-    static double saldo(double saldoAtual, double valorDeposito, double valorRetirada)
-            throws ParametrosInvalidosException {
+    static double saldo(double saldoAtual, double valorDeposito, double valorRetirada) throws ParametrosInvalidosException {
         double saldo = saldoAtual + valorDeposito;
 
         if (valorRetirada > saldo) {
-            throw new ParametrosInvalidosException(
-                    "Saldo insuficiente para retirada! o valor da retirada é superior ao saldo atual.");
+            throw new ParametrosInvalidosException("Saldo insuficiente para retirada! o valor da retirada é superior ao saldo atual.");
         }
 
         return saldo - valorRetirada;
