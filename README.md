@@ -20,6 +20,7 @@ Este repositório contém uma coleção de desafios realizados durante o bootcam
 | Desafio Java Juros Compostos              | [Clique aqui](desafios-java-juros-compostos/src/JurosCompostos.java)                 |
 | Desafio Java O Grande Deposito            | [Clique aqui](desafios-java-o-grande-deposito/src/OGrandeDeposito.java)              |
 | Desafio Java Organizando Seus Ativos      | [Clique aqui](desafios-java-organizando-seus-ativos/src/OrganizadoSeusAtivos.java)   |
+| Desafio Trilha css                        | [Clique aqui](desafios-trilha-css/src/index.html)                                    |
 
 ## Sobre a DIO
 
