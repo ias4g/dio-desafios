@@ -20,4 +20,4 @@ Também tem um protótipo no figma, que você pode verificar as medidas e estili
 
 *Observações: para aplicar os textos em gradiente, utilize a propriedade CSS background-clip, porém, para funcionar em alguns navegadores, é necessário utilizar a propriedade -webkit-background-clip: text;*
 
-[Clique aqui](https://micheleambrosio.github.io/dio-trilha-css-desafio-01/) para acessar o resultado final da Landing Page criada a partir do desafio!
+[Clique aqui](https://trilha-css-dio-by-izael-silva.netlify.app/) para acessar o resultado final da Landing Page criada a partir do desafio!
