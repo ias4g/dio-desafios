@@ -12,16 +12,18 @@ Este repositório contém uma coleção de desafios realizados durante o bootcam
 - Dentro de cada pasta, você encontrará o código-fonte e possíveis soluções.
 - Fique à vontade para contribuir, fornecer feedback ou compartilhar suas próprias soluções!
 
-| ⬇ DESAFIOS ⬇                              | ⬇ ACESSOS ⬇                                                 |
-|-------------------------------------------|-------------------------------------------------------------|
-| Desafios De Código A Jornada Heróica      | [Clique aqui](desafios-de-codigo-a-jornada-heroica/)        |
-| Desafio Java Condicionamente Rico         | [Clique aqui](desafios-java-condicionalmente-rico/src/)     |
-| Desafio Java Controle de Fluxo            | [Clique aqui](desafio-java-controle-fluxo/src/)             |
-| Desafio Java Equilibrando o Saldo         | [Clique aqui](desafios-java-equilibrando-o-saldo/src/)      |
-| Desafio Java Juros Compostos              | [Clique aqui](desafios-java-juros-compostos/src/)           |
-| Desafio Java O Grande Deposito            | [Clique aqui](desafios-java-o-grande-deposito/src/)         |
-| Desafio Java Organizando Seus Ativos      | [Clique aqui](desafios-java-organizando-seus-ativos/src/)   |
-| Desafio Trilha CSS                        | [Clique aqui](desafios-trilha-css/)                         |
+| ⬇ DESAFIOS ⬇                              | ⬇ ACESSOS ⬇                                                       |
+|-------------------------------------------|-------------------------------------------------------------------|
+| Desafios De Código A Jornada Heróica          | [Clique aqui](desafios-de-codigo-a-jornada-heroica/)          |
+| Desafios De Código Capturando Pokémons        | [Clique aqui](desafios-de-codigo-capturando-pokemons/)        |
+| Desafios De Código Pontuando Experiêncis XP   | [Clique aqui](desafios-de-codigo-pontuando-experiencias-xp/)  |
+| Desafio Java Condicionamente Rico             | [Clique aqui](desafios-java-condicionalmente-rico/src/)       |
+| Desafio Java Controle de Fluxo                | [Clique aqui](desafio-java-controle-fluxo/src/)               |
+| Desafio Java Equilibrando o Saldo             | [Clique aqui](desafios-java-equilibrando-o-saldo/src/)        |
+| Desafio Java Juros Compostos                  | [Clique aqui](desafios-java-juros-compostos/src/)             |
+| Desafio Java O Grande Deposito                | [Clique aqui](desafios-java-o-grande-deposito/src/)           |
+| Desafio Java Organizando Seus Ativos          | [Clique aqui](desafios-java-organizando-seus-ativos/src/)     |
+| Desafio Trilha CSS                            | [Clique aqui](desafios-trilha-css/)                           |
 
 ## Sobre a DIO
 
