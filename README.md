@@ -14,14 +14,14 @@ Este repositório contém uma coleção de desafios realizados durante o bootcam
 
 | ⬇ DESAFIOS ⬇                              | ⬇ ACESSOS ⬇                                                 |
 |-------------------------------------------|-------------------------------------------------------------|
-| Desafio Trilha CSS                        | [Clique aqui](desafios-trilha-css/)                         |
-| Desafios De Código                        | [Clique aqui](desafios-de-codigo-a-jornada-heroica/)        |
+| Desafios De Código A Jornada Heróica      | [Clique aqui](desafios-de-codigo-a-jornada-heroica/)        |
+| Desafio Java Condicionamente Rico         | [Clique aqui](desafios-java-condicionalmente-rico/src/)     |
 | Desafio Java Controle de Fluxo            | [Clique aqui](desafio-java-controle-fluxo/src/)             |
+| Desafio Java Equilibrando o Saldo         | [Clique aqui](desafios-java-equilibrando-o-saldo/src/)      |
 | Desafio Java Juros Compostos              | [Clique aqui](desafios-java-juros-compostos/src/)           |
 | Desafio Java O Grande Deposito            | [Clique aqui](desafios-java-o-grande-deposito/src/)         |
-| Desafio Java Equilibrando o Saldo         | [Clique aqui](desafios-java-equilibrando-o-saldo/src/)      |
-| Desafio Java Condicionamente Rico         | [Clique aqui](desafios-java-condicionalmente-rico/src/)     |
 | Desafio Java Organizando Seus Ativos      | [Clique aqui](desafios-java-organizando-seus-ativos/src/)   |
+| Desafio Trilha CSS                        | [Clique aqui](desafios-trilha-css/)                         |
 
 ## Sobre a DIO
 
