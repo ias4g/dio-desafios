@@ -16,6 +16,7 @@ Este repositório contém uma coleção de desafios realizados durante o bootcam
 |-------------------------------------------|-------------------------------------------------------------------|
 | Desafios De Código A Jornada Heróica          | [Clique aqui](desafios-de-codigo-a-jornada-heroica/)          |
 | Desafios De Código Capturando Pokémons        | [Clique aqui](desafios-de-codigo-capturando-pokemons/)        |
+| Desafios De Código Coletando Tesoouros        | [Clique aqui](desafios-de-codigo-coletando-tesouros/)         |
 | Desafios De Código Pontuando Experiêncis XP   | [Clique aqui](desafios-de-codigo-pontuando-experiencias-xp/)  |
 | Desafio Java Condicionamente Rico             | [Clique aqui](desafios-java-condicionalmente-rico/src/)       |
 | Desafio Java Controle de Fluxo                | [Clique aqui](desafio-java-controle-fluxo/src/)               |
