@@ -11,11 +11,7 @@
 
 **Tarefa:** *Escreva um programa que simule sua jornada heróica pela masmorra. O programa deve percorrer cada sala e verificar se há tesouros ou monstros. Se você encontrar um tesouro, colecionará a recompensa. Se encontrar um monstro, terá que derrotá-lo para continuar.*
 
-**Atenção:** *Em nossa resolução utilizamos a função ```js.includes()``` do JavaScript para verificar se um número (representando a sala atual) está presente nos arrays ```salasComTesouro``` e ```salasComMonstro```.*
-
-```js
-.includes()
-```
+**Atenção:** *Em nossa resolução utilizamos a função ```js .includes()``` do JavaScript para verificar se um número (representando a sala atual) está presente nos arrays ```salasComTesouro``` e ```salasComMonstro```.*
 
 ---
 
