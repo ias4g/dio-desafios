@@ -1,11 +1,8 @@
-let i = 0
-const entradas = [2, 3]
-// const entradas = [15, 3]
-// const entradas = [10, 6]
+const entradas = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
 function gets() {
-  const value = entradas[i]
-  i++
+  const numeroAleatorio = Math.floor(Math.random() * 9);
+  const value = entradas[numeroAleatorio];
 
   return value
 }
