@@ -1,7 +1,7 @@
 let i = 0
-const entradas = [2, 3]
-// const entradas = [15, 3]
-// const entradas = [10, 6]
+// const entradas = [45, 40]
+// const entradas = [41, 38]
+const entradas = [15, 20]
 
 function gets() {
   const value = entradas[i]
