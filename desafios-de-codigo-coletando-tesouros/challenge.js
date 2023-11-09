@@ -2,6 +2,8 @@
 //- "gets" : lê UMA linha com dado(s) de entrada (inputs) do usuário;
 //- "print": imprime um texto de saída (output), pulando linha.
 
+const { gets, print } = require('./functionsAux')
+
 // Entrada de dados. Lembre-se: O parseInt(()) é importante para a conversão dos valores de entrada(String) para um valor numérico(int).
 const totalSalas = parseInt(gets());
 //Aqui temos uma demonstração de array com valores já predefinidos:
@@ -15,9 +17,9 @@ for (let sala = 1; sala <= totalSalas; sala++) {
   const temMonstro = salasComMonstro.includes(sala);
 
   //TODO: Agora implemente uma condição necessária para verificar e exibir se há tesouro na sala e se há montro na sala:
-  if (  ) {
+  if (temTesouro) {
     print("Tesouro na sala " + sala + "!");
-  } else if (  ) {
+  } else if (temMonstro) {
     print("Monstro na sala " + sala + "!");
   }
 }
