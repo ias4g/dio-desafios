@@ -2,6 +2,7 @@
   <img src="../assets/image.png" width="200"/>
 
   # Potência Tech iFood - Desenvolvimento de Jogos
+  **DESAFIO DE CÓDIGO:** <br> Capturando Pokémons | Capturando Pokémons Iniciais
 </div>
 
 ### 📚 Descrição
