@@ -1,0 +1,17 @@
+/* Reset CSS */
+* {
+  margin: 0;
+  border: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+  font-family: 'Press Start 2P', cursive, sans-serif;
+}
+
+body {
+  height: 100vh;
+  /* overflow: hidden; */
+}
