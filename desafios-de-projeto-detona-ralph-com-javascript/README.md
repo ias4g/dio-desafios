@@ -2,38 +2,24 @@
   <img src="../assets/image.png" width="200"/>
 
   # Potência Tech iFood - Desenvolvimento de Jogos
-  **DESAFIO DE CÓDIGO:** <br> Academia de Magia | Aprenda a usar seus poderes
+  **DESAFIO DE PROJETO:** <br> Criando um Jogo do Detona Ralph com JavaScript
 </div>
 
-### 📚 Descrição
-*Em um mundo de RPG, personagens utilizam diferentes tipos de magia em batalhas para vencer seus inimigos. Cada magia possui uma função específica: ataque, cura ou defesa.*
-
-*Desenvolva um programa que permita ao usuário escolher o tipo de magia que deseja utilizar e quantas vezes deseja utilizá-la. Em seguida, o programa deverá executar a magia escolhida a quantidade de vezes especificada pelo usuário.*
+### 📚 DESCRIÇÃO
+*Vamos utilizar HTML, CSS e Javascript para criar um jogo baseado no filme Detona Ralph, aonde o objetivo é acertar o Ralph na janela que ele aparecer, ao longo do projeto vamos explorar eventos Javascript e manipular áudios no browser.* ```HTML5``` ```CSS3``` ```JavaScript```
 
 ---
 
-### 🔄 Entrada
-*O programa deve solicitar ao usuário que escolha um tipo de magia entre as opções ```"ataque"```, ```"cura"``` ou ```"defesa"```, utilizando a função ```io.read()```. Em seguida, o programa deve solicitar a quantidade de vezes que a magia escolhida será utilizada, também utilizando o ```io.read()```.*
+### 🎯 AGORA É A SUA VEZ
+*Chegou a hora de colocar em prática tudo aquilo que você aprendeu durante esse projeto.*
 
 ---
 
-### 🚪 Saída
-*Após receber o tipo de magia e a quantidade de vezes que deseja usá-la, o programa deve exibir na tela a mensagem correspondente a cada uso da magia. As mensagens de saída devem seguir o seguinte formato:*
+### 👨‍💻 OBJETIVO:
+*Sua missão vai ser reproduzir passo passo o projeto visto nessa aula, ao final
+suba seu projeto no Github e compartilhe conosco clicando no botão "Entregar Projeto" e cole o link do seu repositório do Github.*
 
-* ***"Usou magia de ataque!" (caso o tipo de magia escolhido seja ```"ataque"```)***
-* ***"Usou magia de cura!" (caso o tipo de magia escolhido seja ```"cura"```)***
-* ***"Usou magia de defesa!" (caso o tipo de magia escolhido seja ```"defesa"```)***
-* ***"Tipo de magia inválido!" (caso o tipo de magia escolhido seja diferente de ```"ataque"```, ```"cura"``` ou ```"defesa"```)***
+### 🔗 Links Úteis
+*Sabemos que toda jornada tem seus desafios, por isso separamos alguns links que podem te ajudar durante esse processo:*
 
-*O programa deve exibir uma mensagem para cada uso da magia, repetindo essa mensagem a quantidade de vezes que foi escolhida pelo usuário no início do programa.*
-
----
-
-### 📋 Exemplos
-*A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.*
-
-| Entrada       | Saída                                                                 |
-|---------------|-----------------------------------------------------------------------|
-| defesa <br> 2 | Usou magia de defesa! <br> Usou magia de defesa!                      |
-| cura <br> 3   | Usou magia de cura! <br> Usou magia de cura! <br> Usou magia de cura! |
-| ataque <br> 1 | Usou magia de ataque!                                                 |
+* Projeto funcionando hospedado na [netlify](https://www.netlify.com) 👉 [dar play no jogo](https://projeto-detona-ralph.netlify.app/)
