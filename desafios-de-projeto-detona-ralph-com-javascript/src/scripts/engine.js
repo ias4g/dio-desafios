@@ -9,7 +9,7 @@ const states = {
     gameVelocity: 1000,
     hitPosition: 0,
     result: 0,
-    currentTime: 60
+    currentTime: 20
   },
   actions: {
     timeId: setInterval(randomSquare, 1000),
@@ -22,9 +22,11 @@ function countDown() {
 
   states.views.time.textContent = states.values.currentTime
 
-  if (states.values.currentTime <= 0) {
+  if (states.values.currentTime <= 0 || states.values.result < 0) {
     clearInterval(states.actions.timeId)
     clearInterval(states.actions.countDownTimeId)
+    states.views.time.textContent = 0
+    states.views.score.textContent = 0
     alert('Game Over! O seu resultado foi: ' + states.values.result)
   }
 }
@@ -55,6 +57,10 @@ function addListenerHitBox() {
         states.views.score.textContent = states.values.result
         states.values.hitPosition = null
         playSound('hit')
+      } else {
+        states.values.result -= 2
+        states.views.score.textContent = states.values.result
+        states.values.hitPosition = null
       }
     })
   })
