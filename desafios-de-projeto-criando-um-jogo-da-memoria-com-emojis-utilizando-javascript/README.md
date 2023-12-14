@@ -9,13 +9,13 @@
   ### Imagens do projeto funcionando
   Projeto funcionando, [jogar↗](https://projeto-detona-ralph.netlify.app/) na [netlify↗](https://www.netlify.com)
 
-  <img src="./src/images/detona-ralph.gif"/>
+  <!-- <img src="./src/images/"/> -->
 </div>
 
 <br>
 
 ### 📚 DESCRIÇÃO
-*Vamos utilizar HTML,CSS e Javascript com o objetivo de criar um jogo da memória com o teclado de emojis do Windows, vamos explorar bastante de estilização CSS e eventos Javascript.* <br><br> ```JavaScript``` ```HTML5``` ```CSS3```
+*Vamos utilizar HTML, CSS e Javascript com o objetivo de criar um jogo da memória com o teclado de emojis do Windows, vamos explorar bastante de estilização CSS e eventos Javascript.* <br><br> ```JavaScript``` ```HTML5``` ```CSS3```
 
 ---
 
@@ -43,14 +43,10 @@ Bons estudos 😉
 
 <br>
 <br>
-<br>
-<br>
-<br>
 
 ---
 
-
 <p align="center">
-    Feito com 💖 por
-    <a href="https://github.com/ias4g">Izael Silva</a>
+  Feito com 💖 por
+  <a href="https://github.com/ias4g">Izael Silva</a>
 </p>
