@@ -1,5 +1,6 @@
 <div align="center">
   <img src="../assets/image.png" width="200"/>
+  <img src="../" width="200"/>
 
   # Potência Tech iFood - Desenvolvimento de Jogos
   **DESAFIO DE PROJETO:** <br> Criando um Jogo do Detona Ralph com JavaScript
