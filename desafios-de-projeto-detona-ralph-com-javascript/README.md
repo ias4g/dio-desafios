@@ -1,10 +1,18 @@
 <div align="center">
   <img src="../assets/image.png" width="200"/>
-  <img src="../" width="200"/>
 
   # Potência Tech iFood - Desenvolvimento de Jogos
   **DESAFIO DE PROJETO:** <br> Criando um Jogo do Detona Ralph com JavaScript
+
+  <br>
+
+  ### Imagens do projeto funcionando
+  Projeto funcionando, [jogar↗](https://projeto-detona-ralph.netlify.app/) na [netlify↗](https://www.netlify.com)
+
+  <img src="./src/images/detona-ralph.gif"/>
 </div>
+
+<br>
 
 ### 📚 DESCRIÇÃO
 *Vamos utilizar HTML, CSS e Javascript para criar um jogo baseado no filme Detona Ralph, aonde o objetivo é acertar o Ralph na janela que ele aparecer, ao longo do projeto vamos explorar eventos Javascript e manipular áudios no browser.* ```HTML5``` ```CSS3``` ```JavaScript```
@@ -23,4 +31,16 @@ suba seu projeto no Github e compartilhe conosco clicando no botão "Entregar Pr
 ### 🔗 Links Úteis
 *Sabemos que toda jornada tem seus desafios, por isso separamos alguns links que podem te ajudar durante esse processo:*
 
-* Projeto funcionando hospedado na [netlify](https://www.netlify.com) 👉 [dar play no jogo](https://projeto-detona-ralph.netlify.app/)
+➡ Projeto funcionando hospedado na [netlify](https://www.netlify.com) 👉 [dar play no jogo](https://projeto-detona-ralph.netlify.app/)
+
+Bons estudos 😉
+
+<br>
+<br>
+
+---
+
+<p align="center">
+  Feito com 💖 por
+  <a href="https://github.com/ias4g">Izael Silva</a>
+</p>
