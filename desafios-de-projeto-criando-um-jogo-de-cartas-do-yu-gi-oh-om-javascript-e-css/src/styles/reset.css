@@ -8,6 +8,7 @@
 }
 
 html {
+  /* Isso equivale a 10px, ao inves de 16px(padrão). agora é só multiplicar por dez em REM ex: 16px = 1.6rem*/
   font-size: 62.5%;
   font-family: 'Press Start 2P', cursive, sans-serif;
 }
