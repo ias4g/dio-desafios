@@ -6,6 +6,7 @@
 
 #next-duel {
   display: none;
+  cursor: pointer;
 }
 
 div.bg-video {
@@ -40,7 +41,7 @@ div.container {
 }
 
 div.container div.container__left {
-  width: 35%;
+  width: 45%;
   min-width: 30rem;
   display: flex;
   flex-direction: column;
@@ -101,11 +102,8 @@ div.container div.container__right div.card-box__container div.card-box {
 }
 
 div.container div.container__right div.card-box__container div.card-versus__container {
-  /* border: 1px solid red; */
-  display: flex;
-  flex-direction: column;
-  /* padding-top: 0.16rem; */
-  /* height: 30rem; */
+  flex: 1;
+  padding-top: 4rem;
 }
 
 div.container div.container__right div.card-box__container div.card-versus__container div.versus-top,
@@ -122,8 +120,14 @@ div.container div.container__right div.card-box__container div.card-versus__cont
 div.container div.container__right div.card-box__container div.card-versus__container div.versus-top div.card-infield {
   width: 12.8rem;
   height: 17.92rem;
-  /* border: 1px solid #fff; */
   border-radius: .8rem;
 }
 
-/* CRIANDO OS STATES DA ENGINE, NA PROXIMA AULA */
+.card {
+  transition: transform .2s;
+}
+
+.card:hover {
+  cursor: pointer;
+  transform: scale(1.2);
+}
