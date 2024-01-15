@@ -1,4 +1,5 @@
 const pathImages = './src/assets/icons/'
+const audio = new Audio('./src/assets/audios/egyptian_duel.mp3')
 const states = {
   score: {
     playerScore: 0,
@@ -20,7 +21,10 @@ const states = {
     computer: 'computer-cards',
     computerBox: document.getElementById('computer-cards')
   },
-  button: document.getElementById('next-duel')
+  actions: {
+    button: document.getElementById('next-duel'),
+    volume: document.querySelector('.volume img')
+  }
 }
 const cardData = [
   { id: 0, name: 'Blue Eyes White Dragon', type: 'Paper', img: `${pathImages}dragon.png`, winOf: [1], loseOf: [2] },
@@ -28,6 +32,20 @@ const cardData = [
   { id: 2, name: 'Exodia', type: 'Scissors', img: `${pathImages}exodia.png`, winOf: [0], loseOf: [1] }
 ]
 
+
+function toggleVolume() {
+  states.actions.volume.addEventListener('click', () => {
+    if (states.actions.volume.dataset.vol === 'volume-2') {
+      audio.pause()
+      states.actions.volume.src = './src/assets/icons/volume-x.svg'
+      states.actions.volume.setAttribute('data-vol', 'volume-x')
+    } else if (states.actions.volume.dataset.vol === 'volume-x') {
+      audio.play()
+      states.actions.volume.src = './src/assets/icons/volume-2.svg'
+      states.actions.volume.setAttribute('data-vol', 'volume-2')
+    }
+  })
+}
 
 async function getRandomCardId() {
   const randomIndex = Math.floor(Math.random() * cardData.length)
@@ -78,8 +96,8 @@ async function updateScore() {
 }
 
 async function drawButton(text) {
-  states.button.innerText = text.toUpperCase()
-  states.button.style.display = 'block'
+  states.actions.button.innerText = text.toUpperCase()
+  states.actions.button.style.display = 'block'
 }
 
 async function setCardsField(cardId) {
@@ -137,7 +155,7 @@ async function hiddenCardsDetails() {
 }
 
 function resetDuel() {
-  states.button.style.display = 'none'
+  states.actions.button.style.display = 'none'
 
   states.fieldsCarda.player.src = `${pathImages}card-back.png`
   states.fieldsCarda.computer.src = `${pathImages}card-back.png`
@@ -154,6 +172,8 @@ function init() {
   drawCards(5, states.playerSides.player1)
   drawCards(5, states.playerSides.computer)
   hiddenCardsDetails()
+
+  toggleVolume()
 }
 
 init()
