@@ -11,6 +11,9 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
 
+  <!-- FAVICON -->
+  <link rel="shortcut icon" href="./src/assets/favicon/Favicon.ico" type="image/x-icon">
+
   <!-- STYLES -->
   <link rel="stylesheet" href="./src/styles/reset.css">
   <link rel="stylesheet" href="./src/styles/main.css">
@@ -23,6 +26,10 @@
 </head>
 
 <body>
+  <div class="volume" title="Clique para pausar ou ligar o audio!">
+    <img class="vol" data-vol="volume-2" src="./src/assets/icons/volume-2.svg" alt="volume">
+  </div>
+
   <div class="bg-video">
     <video class="video" autoplay loop muted>
       <source src="./src/assets/video/yugi.mp4" type="video/mp4" />
