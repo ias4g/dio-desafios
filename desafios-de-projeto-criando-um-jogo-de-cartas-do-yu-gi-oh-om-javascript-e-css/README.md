@@ -8,7 +8,7 @@
   ### Imagens do projeto funcionando
   Projeto funcionando, [jogar↗](https://projeto-detona-ralph.netlify.app/) na [netlify↗](https://www.netlify.com)
 
-  <!-- <img src="./src/images/"/> -->
+  <!-- <img src="./src/assets/icons/dragon.png"/> -->
 </div>
 
 <br>
