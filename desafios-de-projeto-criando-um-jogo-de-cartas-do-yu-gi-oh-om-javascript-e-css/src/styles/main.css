@@ -6,7 +6,24 @@
 
 #next-duel {
   display: none;
-  cursor: pointer;
+  /* cursor: pointer; */
+}
+
+div.volume {
+  position: absolute;
+  z-index: 2;
+  top: 3.2rem;
+  left: 3.2rem;
+
+  width: 4rem;
+  height: 4rem;
+
+  background-color: #fff;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
 }
 
 div.bg-video {
@@ -128,6 +145,6 @@ div.container div.container__right div.card-box__container div.card-versus__cont
 }
 
 .card:hover {
-  cursor: pointer;
+  /* cursor: pointer; */
   transform: scale(1.2);
 }
