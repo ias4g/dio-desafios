@@ -8,16 +8,16 @@
 
 | ⬇ DESAFIOS ⬇                      | ⬇ ACESSOS ⬇                                                           |
 |-----------------------------------|-----------------------------------------------------------------------|
-| A Jornada Heróica                 |   [Clique aqui](desafios-de-codigo/a-jornada-heroica)                |
-| Academia De Magia                 |   [Clique aqui](desafios-de-codigo/academia-de-magia/)                |
-| Capturando Pokémons               |   [Clique aqui](desafios-de-codigo/capturando-pokemons/)              | 
-| Coletando Tesouros                |   [Clique aqui](desafios-de-codigo/coletando-tesouros/)               |
-| Combatendo Monstros               |   [Clique aqui](desafios-de-codigo/combatendo-monstros/)              |
-| Combinando Nomes De Pokémons      |   [Clique aqui](desafios-de-codigo/combinando-nomes-de-pokemons/)     |
-| Gerando Biomas Em Mundo De Blocos |   [Clique aqui](desafios-de-codigo/gerando-biomas-em-mundo-de-bloco/) |
-| Gerenciando Itens Mágicos         |   [Clique aqui](desafios-de-codigo/gerenciando-itens-magicos/)        |
-| Pontuando Experiências XP         |   [Clique aqui](desafios-de-codigo/pontuando-experiencias-xp/)        |
-| Tomada De Decisão                 |   [Clique aqui](desafios-de-codigo/tomadas-de-decisao/)               |
+| A Jornada Heróica                 |   [Clique aqui](a-jornada-heroica/)                |
+| Academia De Magia                 |   [Clique aqui](academia-de-magia/)                |
+| Capturando Pokémons               |   [Clique aqui](capturando-pokemons/)              | 
+| Coletando Tesouros                |   [Clique aqui](coletando-tesouros/)               |
+| Combatendo Monstros               |   [Clique aqui](combatendo-monstros/)              |
+| Combinando Nomes De Pokémons      |   [Clique aqui](combinando-nomes-de-pokemons/)     |
+| Gerando Biomas Em Mundo De Blocos |   [Clique aqui](gerando-biomas-em-mundo-de-bloco/) |
+| Gerenciando Itens Mágicos         |   [Clique aqui](gerenciando-itens-magicos/)        |
+| Pontuando Experiências XP         |   [Clique aqui](pontuando-experiencias-xp/)        |
+| Tomada De Decisão                 |   [Clique aqui](tomadas-de-decisao/)               |
 
 ## Sobre a DIO
 
