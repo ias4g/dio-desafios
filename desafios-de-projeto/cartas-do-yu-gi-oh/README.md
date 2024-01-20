@@ -6,9 +6,10 @@
   <br>
 
   ### Imagens do projeto funcionando
-  Projeto funcionando, [jogar↗](https://projeto-detona-ralph.netlify.app/) na [netlify↗](https://www.netlify.com)
+  Projeto funcionando, [jogar↗](https://cartas-do-yu-gi-oh.netlify.app/) na [netlify↗](https://www.netlify.com)
 
   <!-- <img src="./src/assets/icons/dragon.png"/> -->
+  <video src="../../assets/yu-gi-oh.mp4" autoplay></video>
 </div>
 
 <br>
