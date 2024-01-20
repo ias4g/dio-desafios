@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../assets/image.png" width="200"/>
+  <img src="../../assets/image.png" width="200"/>
 
 
   # Potência Tech iFood - Desenvolvimento de Jogos
