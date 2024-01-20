@@ -7,7 +7,7 @@
   <br>
 
   ### Imagens do projeto funcionando
-  Projeto funcionando, [jogar↗](https://projeto-detona-ralph.netlify.app/) na [netlify↗](https://www.netlify.com)
+  Projeto funcionando, [jogar↗](#) na [netlify↗](https://www.netlify.com)
 
   <!-- <img src="./src/images/"/> -->
 </div>
