@@ -8,7 +8,7 @@
 
 | ⬇ DESAFIOS ⬇                      | ⬇ ACESSOS ⬇                                                           |
 |-----------------------------------|-----------------------------------------------------------------------|
-| A Jornada Heróica                 |   [Clique aqui](desafios-de-codigo/a-jornada-heroica/)                |
+| A Jornada Heróica                 |   [Clique aqui](desafios-de-codigo/a-jornada-heroica)                |
 | Academia De Magia                 |   [Clique aqui](desafios-de-codigo/academia-de-magia/)                |
 | Capturando Pokémons               |   [Clique aqui](desafios-de-codigo/capturando-pokemons/)              | 
 | Coletando Tesouros                |   [Clique aqui](desafios-de-codigo/coletando-tesouros/)               |
