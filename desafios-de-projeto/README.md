@@ -8,9 +8,9 @@
 
 | ⬇ DESAFIOS ⬇      | ⬇ ACESSOS ⬇                                                                   |
 |-------------------|-------------------------------------------------------------------------------|
-| Emulador De Piano |   [Clique aqui](construindo-um-simulador-de-piano-com-javaScript/)            |
-| Jogo Da Memória   |   [Clique aqui](criando-um-jogo-da-memoria-com-emojis-utilizando-javascript/) |
-| Cartas Yu-Gi-Oh   |   [Clique aqui](criando-um-jogo-de-cartas-do-yu-gi-oh-om-javascript-e-css/)   | 
+| Emulador De Piano |   [Clique aqui](simulador-de-piano/)            |
+| Jogo Da Memória   |   [Clique aqui](jogo-da-memoria/) |
+| Cartas Yu-Gi-Oh   |   [Clique aqui](cartas-do-yu-gi-oh/)   | 
 | Detona Ralph      |   [Clique aqui](detona-ralph-com-javascript/)                                 |
 | Match Animals     |   [Clique aqui](match-animals-game/)                                          |
 | Html e Css        |   [Clique aqui](trilha-html-css/)                                             |
