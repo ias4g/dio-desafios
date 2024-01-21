@@ -9,7 +9,7 @@
   ### Imagens do projeto funcionando
   Projeto funcionando, [jogar↗](https://simulador-de-piano.netlify.app/) na [netlify↗](https://www.netlify.com)
 
-  <img src="./src/images/detona-ralph.gif"/>
+  <img src="../../assets/simulador-de-piano-com-som.gif"/>
 </div>
 
 <br>
