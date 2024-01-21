@@ -9,7 +9,7 @@
   ### Imagens do projeto funcionando
   Projeto funcionando, [jogar↗](https://jogo-da-memory.netlify.app/) na [netlify↗](https://www.netlify.com)
 
-  <!-- <img src="./src/images/"/> -->
+  <img src="../../assets/jogo-da-memoria.gif"/>
 </div>
 
 <br>
