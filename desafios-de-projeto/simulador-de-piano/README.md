@@ -31,7 +31,7 @@ suba seu projeto no Github e compartilhe conosco clicando no botão "Entregar Pr
 ### 🔗 Links Úteis
 *Sabemos que toda jornada tem seus desafios, por isso separamos alguns links que podem te ajudar durante esse processo:*
 
-➡ Projeto funcionando hospedado na [netlify](https://www.netlify.com) 👉 [dar play no jogo](https://projeto-detona-ralph.netlify.app/)
+➡ Projeto funcionando hospedado na [netlify](https://www.netlify.com) 👉 [dar play no jogo](https://simulador-de-piano.netlify.app/)
 
 Bons estudos 😉
 
