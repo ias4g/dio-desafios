@@ -37,7 +37,7 @@ suba seu projeto no Github e compartilhe conosco clicando no botão "Entregar Pr
 
 <br>
 
-➡ Projeto funcionando hospedado na [netlify](https://www.netlify.com) 👉 [dar play no jogo](#)
+➡ Projeto funcionando hospedado na [netlify](https://www.netlify.com) 👉 [dar play no jogo](https://jogo-da-memory.netlify.app/)
 
 Bons estudos 😉
 
